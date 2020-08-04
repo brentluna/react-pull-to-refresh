@@ -57,7 +57,7 @@
     "web-pull-to-refresh"
   ],
   "dependencies": {
-    "hammerjs": "^2.0.4",
+    "@egjs/hammerjs": "^2.0.17",
     "prop-types": "^15.5.10"
   }
 }
